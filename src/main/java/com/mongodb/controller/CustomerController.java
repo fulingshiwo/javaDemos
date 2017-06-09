@@ -1,4 +1,4 @@
-package com.nd.springmvc.controller;
+package com.mongodb.controller;
 
 /**
  * Created by ChenQuan on 2016/12/31.
